@@ -10,7 +10,6 @@ I am a dedicated developer focused on solving technical problems and committed t
 ---
 
 - 🔭 I am currently working at [Smart One Soluções Empresariais](https://smart01.com.br)
-- 🌱 I am currently learning **React, React Native, Node.js** and have started an MBA at [Rocketseat](https://www.rocketseat.com.br/mba) 🚀
 - 📫 How to reach me: **dev.vtspereira@gmail.com**
 
 ---
